@@ -3,12 +3,12 @@ entries:
   100-avisos-spring:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-10-05T22:55:06.819637725+02:00"
+    created: "2022-10-06T11:50:53.163064538+02:00"
     description: A Helm chart for Kubernetes
-    digest: 6a8d820681c58a4124c5f6bfc65bb32ac36e33d79c6ab6d26922b9a0f0092dd5
+    digest: 14f625b4ad1a20fef59d6e5b39f0d5cf2bb47a3bbfadaf24a87dee1e5f986ef5
     name: 100-avisos-spring
     type: application
     urls:
     - charts/100-avisos-spring-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-05T22:55:06.818624974+02:00"
+generated: "2022-10-06T11:50:53.162080112+02:00"
